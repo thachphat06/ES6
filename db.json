@@ -1,0 +1,258 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "img": "img/1.jpg",
+      "name": "Half Running Set",
+      "price": 400,
+      "promotion": "sale",
+      "status": true
+    },
+    {
+      "id": "2",
+      "img": "img/2.jpg",
+      "name": "Formal Men Lowers",
+      "price": 500,
+      "promotion": "new",
+      "status": true
+    },
+    {
+      "id": "3",
+      "img": "img/3.jpg",
+      "name": "Half Running Suit",
+      "price": 600,
+      "promotion": "new",
+      "status": true
+    },
+    {
+      "id": "4",
+      "img": "img/4.jpg",
+      "name": "Half Fancy Lady Dress",
+      "price": 700,
+      "promotion": "hot",
+      "status": true
+    },
+    {
+      "id": "5",
+      "img": "img/5.jpg",
+      "name": "Flix Flox Jeans",
+      "price": 700,
+      "promotion": "new",
+      "status": true
+    },
+    {
+      "id": "6",
+      "img": "img/6.jpg",
+      "name": "Fancy Salwar Suits",
+      "price": 700,
+      "promotion": "hot",
+      "status": true
+    },
+    {
+      "id": "7",
+      "img": "img/7.jpg",
+      "name": "Printed Straight Kurta",
+      "price": 700,
+      "promotion": "sale",
+      "status": true
+    },
+    {
+      "id": "8",
+      "img": "img/8.jpg",
+      "name": "Collot Full Dress",
+      "price": 700,
+      "promotion": "sale",
+      "status": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "df5b",
+      "name": "Hot"
+    },
+    {
+      "id": "75d6",
+      "name": "New"
+    },
+    {
+      "id": "6b00",
+      "name": "Sale"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "phat",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "id": "5127",
+      "username": "phat1",
+      "password": "1234"
+    },
+    {
+      "id": "baff",
+      "username": "aa",
+      "password": "123"
+    },
+    {
+      "id": "7820",
+      "username": "phat111@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "261a",
+      "username": "phattt",
+      "password": "123"
+    }
+  ],
+  "order": [
+    {
+      "id": "f53a"
+    },
+    {
+      "id": "d257",
+      "name": "Thạch Phát",
+      "email": "phathntps27741@fpt.edu.vn",
+      "address": "123/45 Quang Trung, Gò Vấp",
+      "phone": "1234567890",
+      "products": [
+        {
+          "id": "2",
+          "name": "Formal Men Lowers",
+          "price": "500",
+          "img": "img/2.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "name": "Half Running Suit",
+          "price": "600",
+          "img": "img/3.jpg",
+          "quantity": 4
+        },
+        {
+          "id": "1",
+          "name": "Half Running Set",
+          "price": "400",
+          "img": "img/1.jpg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "2de3",
+      "name": "",
+      "email": "",
+      "address": "",
+      "phone": "",
+      "products": [
+        {
+          "id": "2",
+          "name": "Formal Men Lowers",
+          "price": "500",
+          "img": "img/2.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "name": "Half Running Suit",
+          "price": "600",
+          "img": "img/3.jpg",
+          "quantity": 4
+        },
+        {
+          "id": "1",
+          "name": "Half Running Set",
+          "price": "400",
+          "img": "img/1.jpg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "4ac7",
+      "name": "dsfg",
+      "email": "Admin123@gmail.com",
+      "address": "102/34 Phan Văn Trị, Bình Thạnh",
+      "phone": "1234567890",
+      "products": [
+        {
+          "id": "1",
+          "name": "Half Running Set",
+          "price": "400",
+          "img": "img/1.jpg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "16cd",
+      "name": "phatphat",
+      "email": "phathntps27741@fpt.edu.vn",
+      "address": "123/45 Quang Trung, Gò Vấp",
+      "phone": "1234567890",
+      "products": [
+        {
+          "id": "3",
+          "name": "Half Running Suit",
+          "price": "600",
+          "img": "img/3.jpg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "7538",
+      "name": "phatphat",
+      "email": "phathntps27741@fpt.edu.vn",
+      "address": "123/45 Quang Trung, Gò Vấp",
+      "phone": "1234567890",
+      "products": [
+        {
+          "id": "3",
+          "name": "Half Running Suit",
+          "price": "600",
+          "img": "img/3.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Formal Men Lowers",
+          "price": "500",
+          "img": "img/2.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "1",
+          "name": "Half Running Set",
+          "price": "400",
+          "img": "img/1.jpg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "2273",
+      "name": "Phát Huỳnh",
+      "email": "phathntps27741@fpt.edu.vn",
+      "address": "Hồ Chí Minh",
+      "phone": "0385344149",
+      "products": [
+        {
+          "id": "2",
+          "name": "Formal Men Lowers",
+          "price": "500",
+          "img": "img/2.jpg",
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+}
